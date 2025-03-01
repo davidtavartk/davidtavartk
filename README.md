@@ -1,41 +1,37 @@
 # Hi, I'm David Tavartkiladze 👋
 
-I'm a passionate full-stack developer focused on building scalable and efficient web applications. I specialize in frontend development with React and TailwindCSS but enjoy working on the backend too. I believe in writing clean, maintainable code that provides real value to users. When I'm not coding, you can find me singing 🎤 or experimenting with new technologies.
+I'm a passionate full-stack developer focused on building scalable and efficient web applications. I specialize in frontend development with React and TailwindCSS and backend development in Node.js with Express or NestJs. I believe in writing clean, maintainable code that provides real value to users.
 
 ## 🚀 Skills & Technologies
 
-- **Frontend:** React, TypeScript, TailwindCSS, HTML, CSS
-- **Backend:** Node.js, Express,
-- **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, Docker, AWS, GitHub Actions, CI/CD
-- **Design:** Figma, Sketch, Adobe XD
+- **Frontend:** JavaScript, TypeScript, React.js, Next.js, React Native, SCSS, Tailwind, Redux, Jest
+- **Backend:** Node.js, Express.js, Nest.js, JWT, RestAPI, Jest!
+- **Databases:** PostgreSQL, MySQL, Firebase, Supabase, DrizzleORM, Sequelize, MongoDB
+- **Tools:** Github, Github Actions, Vercel, Docker, AWS, S3, Terraform
 
 ## 🔧 Projects
 
-### [Project 1: City Esports & Sports Tournaments](#)
+### City Esports & Sports Tournaments (#)
 A platform to plan and manage city-based esports and sports tournaments. Built with React, Node.js, and MongoDB.
-- **Tech Stack:** React, Node.js, MongoDB
+- **Tech Stack:** Next.js, Node.js, NestJs, Tailwind, PostgreSQL
 
-### [Project 2: File Sharing App](#)
+### File Sharing Website (#)
 A secure file sharing and storage app built with Django and AWS. Supports real-time collaboration.
-- **Tech Stack:** Django, PostgreSQL, AWS
+- **Tech Stack:** Node.js, Express, PostgreSQL, AWS
 
-### [Project 3: Reviews Platform](#)
+### MealSprint Food Delivery (#)
 A platform for people to write reviews about cities, with automatic spam detection using GPT-4.
-- **Tech Stack:** React, MySQL, GPT-4, Node.js
+- **Tech Stack:** React, MySQL, Node.js, Express
 
-## 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 📬 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-profile)
-- Email: your-email@example.com
+- LinkedIn: www.linkedin.com/in/davidtavartk
+- Email: d.tavartkiladze5@gmail.com
 
 ## 🌱 Fun Facts
-- I'm an avid singer 🎤 and love to perform live.
-- I enjoy traveling and capturing moments through photography 📸.
+- I'm an guitar player I perform gigs locally.
+- I enjoy traveling and new adventures!
 - I’m always learning new programming languages and frameworks to improve my skills!
 
 Feel free to check out my repositories, and don't hesitate to reach out if you'd like to collaborate or just chat about tech!
