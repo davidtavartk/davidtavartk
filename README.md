@@ -1,6 +1,6 @@
 # Hi, I'm David Tavartkiladze 👋
 
-I'm a passionate full-stack developer focused on building **scalable and efficient web applications**. I specialize in frontend development with **React** and **TailwindCSS** and backend development with **Node.js** using **Express** or **NestJS**. I believe in writing **clean, maintainable code** that provides real value to users.
+I'm a passionate full-stack developer focused on building **scalable and efficient web applications**. I specialize in frontend development with **React**, **Next.js** and backend development with **Node.js** using **Express** and **NestJS**. I believe in writing **clean, maintainable code** that provides real value to users.
 
 ---
 
