@@ -1,6 +1,6 @@
 # Hi, I'm David Tavartkiladze 👋
 
-I'm a passionate full-stack developer focused on building **scalable and efficient web applications**. I specialize in frontend development with **React**, **Next.js** and backend development with **Node.js** using **Express** and **NestJS**. I believe in writing **clean, maintainable code** that provides real value to users.
+I'm a passionate full-stack developer with **4+ years development experience** focused on building **scalable and efficient web applications**. I specialize in frontend development with **React**, **Next.js** and backend development with **Node.js** using **Express** and **NestJS**. I believe in writing **clean, maintainable code** that provides real value to users.
 
 ---
 
@@ -12,22 +12,6 @@ I'm a passionate full-stack developer focused on building **scalable and efficie
 - **Databases:** PostgreSQL, MySQL, MongoDB, Supabase, Firebase, DrizzleORM, Sequelize, Redis  
 - **Tools & Cloud:** GitHub, GitHub Actions, Docker, Vercel, Railway, AWS (Lambda, ECS, S3), Azure, Terraform  
 - **AI / LLM & Automation:** GPT fine-tuning, prompt engineering, workflow automation
-
----
-
-## 🔧 Projects
-
-### City TeamBuilding
-A platform to plan and manage city-based and remote team building activities.  
-**Tech Stack:** Next.js, Node.js, NestJS, Tailwind, PostgreSQL
-
-### File Sharing Website
-A secure file sharing and storage app supporting real-time collaboration.  
-**Tech Stack:** Node.js, Express, PostgreSQL, AWS
-
-### MealSprint Food Delivery
-A platform for city reviews with automatic spam detection using GPT-4.  
-**Tech Stack:** React, Node.js, Express, MySQL
 
 ---
 
